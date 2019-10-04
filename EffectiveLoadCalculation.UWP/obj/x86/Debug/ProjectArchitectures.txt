@@ -1,0 +1,1 @@
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation.UWP\EffectiveLoadCalculation.UWP.csproj;x86

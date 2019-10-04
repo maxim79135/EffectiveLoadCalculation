@@ -1,0 +1,13 @@
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\bin\Debug\netstandard2.0\EffectiveLoadCalculation.deps.json
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\bin\Debug\netstandard2.0\EffectiveLoadCalculation.dll
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\bin\Debug\netstandard2.0\EffectiveLoadCalculation.pdb
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\obj\Debug\netstandard2.0\EffectiveLoadCalculation.csprojAssemblyReference.cache
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\obj\Debug\netstandard2.0\StartPage.xaml.g.cs
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\obj\Debug\netstandard2.0\EffectiveLoadCalculation.csproj.CoreCompileInputs.cache
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\obj\Debug\netstandard2.0\EffectiveLoadCalculation.AssemblyInfoInputs.cache
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\obj\Debug\netstandard2.0\EffectiveLoadCalculation.AssemblyInfo.cs
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\obj\Debug\netstandard2.0\EffectiveLoadCalculation.dll
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\obj\Debug\netstandard2.0\EffectiveLoadCalculation.pdb
+E:\Xamarin Apps\EffectiveLoadCalculation\EffectiveLoadCalculation\obj\Debug\netstandard2.0\XamlC.stamp

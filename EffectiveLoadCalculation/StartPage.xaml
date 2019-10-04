@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:EffectiveLoadCalculation.CustomElements"
+             mc:Ignorable="d"
+             x:Class="EffectiveLoadCalculation.StartPage"
+             NavigationPage.HasNavigationBar="False">
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#35607D">
+            <local:MyButton Text="Entry" 
+                    VerticalOptions="EndAndExpand" 
+                    Clicked="OnEntryButton_Clicked" 
+                    Pressed="OnEntryButton_Pressed"
+                    Released="OnEntryButton_Released"/>
+            
+            <local:MyButton Text="Forgot password?" 
+                    VerticalOptions="End"
+                    Pressed="OnEntryButton_Pressed"
+                    Released="OnEntryButton_Released" Clicked="ForgotButton_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
